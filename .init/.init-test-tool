@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/content-hub-platform-173817-173832/backend_fastapi"
+}
